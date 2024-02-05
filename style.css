@@ -53,4 +53,7 @@ form button{
     outline: 0;
     padding: 10px 20px;
     border-radius: 4px;
+    margin: 10px auto 100px;
+    cursor: pointer;
+    display: block;
 }
